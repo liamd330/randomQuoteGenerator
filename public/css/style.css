@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Rokkitt);
+
+.buttons,
+#tweet-this {
+  display: inline;
+}
+
+.padding {
+  padding-top: 2%; 
+}
+
+.white-box {
+  background-color: white;
+  padding: 2% 2% 2% 2%;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  border-radius: 5px;
+  max-width: 500px;
+  font-family: 'Rokkitt', serif;
+  font-size: 16pt;
+}
+
+h2 {
+  color: white;
+}
+
+body {
+  background-color: #6600cc;
+  transition: all 1s ease;
+  color: 		#595959;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.green {
+  background-color: #33cc33;
+}
+
+.red {
+  background-color: #cc0000;
+}
+
+.blue {
+  background-color: #3399ff;
+}
+
